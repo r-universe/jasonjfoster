@@ -1,7 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jasonjfoster/jasonjfoster.r-universe.dev
 	branch = HEAD
 [submodule "roll"]
 	path = roll
 	url = https://github.com/jasonjfoster/roll
+[submodule "rolleda"]
+	path = rolleda
+	url = https://github.com/jasonjfoster/rolleda
+[submodule "rolleigen"]
+	path = rolleigen
+	url = https://github.com/jasonjfoster/rolleigen
+[submodule "rolloptim"]
+	path = rolloptim
+	url = https://github.com/jasonjfoster/rolloptim
+[submodule "rollshap"]
+	path = rollshap
+	url = https://github.com/jasonjfoster/rollshap

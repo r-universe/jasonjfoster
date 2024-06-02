@@ -17,3 +17,6 @@
 [submodule "rollshap"]
 	path = rollshap
 	url = https://github.com/jasonjfoster/rollshap
+[submodule "rolltalk"]
+	path = rolltalk
+	url = https://github.com/jasonjfoster/rolltalk

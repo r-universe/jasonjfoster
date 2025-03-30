@@ -22,4 +22,4 @@
 	url = https://github.com/jasonjfoster/rolltalk
 [submodule "screen"]
 	path = screen
-	url = https://github.com/jasonjfoster/screen/r
+	url = https://github.com/jasonjfoster/screen

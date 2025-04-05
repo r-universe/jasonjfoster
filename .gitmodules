@@ -20,6 +20,6 @@
 [submodule "rolltalk"]
 	path = rolltalk
 	url = https://github.com/jasonjfoster/rolltalk
-[submodule "yscreen"]
-	path = yscreen
+[submodule "screen"]
+	path = screen
 	url = https://github.com/jasonjfoster/screen

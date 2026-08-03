@@ -20,6 +20,10 @@
 [submodule "rolltalk"]
 	path = rolltalk
 	url = https://github.com/jasonjfoster/rolltalk
+[submodule "secfile"]
+	path = secfile
+	url = https://github.com/jasonjfoster/file
+	subdir = r
 [submodule "yfhist"]
 	path = yfhist
 	url = https://github.com/jasonjfoster/hist
